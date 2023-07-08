@@ -35,7 +35,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://blog-sssd.oss-cn-chengdu.aliyuncs.com/title.jpg" />
+<img align="right" width="88" src="https://blog-sssd.oss-cn-chengdu.aliyuncs.com/title_icon.png" />
 
 <p>&emsp;&emsp;大家好，我是傻傻三多。</p>
 <p>&emsp;&emsp;热爱编程、运动、旅行。</p>
